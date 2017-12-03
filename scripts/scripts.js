@@ -123,7 +123,6 @@ function setGamePoints() {
 }
 
 function checkFinalWinner() {
-
   if ( (player.score == 10) && (computer.score == 10) ) {
     winner.innerHTML = 'The match ended in a tie. Try again!';
     gameState = 'ended';
