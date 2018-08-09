@@ -1,7 +1,7 @@
 {
-  "name": "Zadanie-7.7",
+  "name": "Rock--Paper--Scissors",
   "version": "1.0.0",
-  "description": "new website from psd",
+  "description": "simple webgame in VanillaJS",
   "main": "index.html",
   "scripts": {
     "test": "npm run test:html",
@@ -18,16 +18,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dobi01/Zadanie-7.7.git"
+    "url": ""
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dobi01/Zadanie-7.7/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/dobi01/Zadanie-7.7#readme",
-  "dependencies": {
+  "homepage": "",
+  "dev-dependencies": {
     "autoprefixer-cli": "^1.0.0",
     "browser-sync": "^2.18.13",
     "glob-run": "^0.1.6",
